@@ -1,0 +1,6 @@
+{
+  "name": "Memory Match",
+  "description": "A polished casual memory card matching game with multiple difficulty levels, animations, and high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

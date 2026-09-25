@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Memory Match</string>
+    <string name="play">Play Game</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="moves">Moves</string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+    <string name="best_score">Best Score</string>
+    <string name="best_time">Best Time</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="dark_mode">Dark Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_dark">Always Dark</string>
+    <string name="theme_light">Always Light</string>
+    <string name="victory_title">Spectacular!</string>
+    <string name="victory_subtitle">You matched all cards!</string>
+    <string name="play_again">Play Again</string>
+    <string name="new_record">New Record!</string>
+</resources>
